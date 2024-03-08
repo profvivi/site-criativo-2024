@@ -33,7 +33,7 @@ a propriedade display com o valor inline-block:*/
 }
 
 .cabecalho-lista-item a {
-    text-decoration: none;
+    text-decoration-color: black;
     color: #FFFFFF; /*cor*/
 }
 
