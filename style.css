@@ -1,8 +1,17 @@
-.cabecalho {
+/*.cabecalho {
     background-color: #cfd2bb;
     color: #070000;
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
+}*/
+
+.cabecalho {
+    background-color: #424E61;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
     padding: 24px 0;
 }
 
