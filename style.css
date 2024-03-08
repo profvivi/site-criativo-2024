@@ -34,7 +34,9 @@ a propriedade display com o valor inline-block:*/
 
 .cabecalho-lista-item a {
    text-decoration: none;
-    color: #FFFFFF; /*cor*/
+   color: #FFFFFF; /*cor*/
+   text-transform: uppercase;
+   
 }
 
 /*Iniciar Seção escola*/
