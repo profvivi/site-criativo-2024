@@ -1,10 +1,10 @@
-/*.cabecalho {
-    background-color: #cfd2bb;
-    color: #070000;
-    display: flex;
-    justify-content: space-around;
-    padding: 24px 0;
-}*/
+/*Adicionar as propriedades margin e padding no seletor universal */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Seção cabeçalho*/
 
 .cabecalho {
     background-color: #424E61;
@@ -14,12 +14,30 @@
     align-items: center;
     padding: 24px 0;
 }
+/*A lista não ordenada ul precisa estar alinhada em uma única linha.
+Crie um seletor para a classe .cabecalho-lista-item, adicionando nele 
+a propriedade display com o valor inline-block:*/
 
 .cabecalho-lista-item{
     display: inline-block;
 }
+
+/*Aumente os espaçamentos entre os textos com a propriedade margin de valor 0 16px:*/
 
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
 }
+
+/*Aumente a fonte através da propriedade font-size de valor 24px.*/
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+/**/
+
+
+/**/
