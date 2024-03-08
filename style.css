@@ -43,6 +43,9 @@ a:hover {
 a:active{
     color: rgb(105, 144, 216);
 }
+a:visited {
+    color: purple;
+  } /* links visitados */
 
 
 
