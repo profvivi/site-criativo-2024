@@ -23,18 +23,7 @@
 /*A lista não ordenada ul precisa estar alinhada em uma única linha.
 Crie um seletor para a classe .cabecalho-lista-item, adicionando nele 
 a propriedade display com o valor inline-block:*/
-
-.cabecalho-lista-item{
-    display: inline-block;
-}
-
 /*Aumente os espaçamentos entre os textos com a propriedade margin de valor 0 16px:*/
-
-.cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-}
-
 /*Aumente a fonte através da propriedade font-size de valor 24px.*/
 
 .cabecalho-lista-item{
@@ -42,6 +31,12 @@ a propriedade display com o valor inline-block:*/
     margin: 0 16px;
     font-size: 24px;
 }
+
+.cabecalho-lista-item a {
+    text-decoration: none;
+    color: #000000; /*cor*/
+}
+
 /*Iniciar Seção escola*/
 
 /* crie um seletor (.) para a classe escola-imagem, determinando uma largura width de 25%:*/
