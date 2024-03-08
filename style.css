@@ -46,7 +46,8 @@ a propriedade display com o valor inline-block:*/
 .escola-imagem{
     width: 30%; /*largura*/
      height: 300px;/*altura*/
-     border-radius: 82px; /*para definir bordas arredondadas da imagem*/   
+     border-radius: 82px; /*para definir bordas arredondadas da imagem*/ 
+     text-align: right;  
 }
 
 /**/
