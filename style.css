@@ -42,6 +42,7 @@ a propriedade display com o valor inline-block:*/
     margin: 0 16px;
     font-size: 24px;
 }
+/*Iniciar Seção escola*/
 
 /* crie um seletor (.) para a classe escola-imagem, determinando uma largura width de 25%:*/
 .escola-imagem{
@@ -62,14 +63,13 @@ a propriedade display com o valor inline-block:*/
 
 /**/
 .escola-div-conteudo{
-    width: 35%;
+    width: 45%;
 }
 
 /**/
 .escola-titulo{
     padding: 24px 0;
 }
-
 
 /**/
 p{
