@@ -76,3 +76,7 @@ p{
     font-size: 20px;/*tamanho da fonte*/
     font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
  }
+
+ h2{
+    padding: 0 40px; /* alinhar o espaçamento */
+ }
