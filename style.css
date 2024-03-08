@@ -14,6 +14,11 @@
     align-items: center;
     padding: 24px 0;
 }
+
+.cabecalho-imagem{
+    width: 15%;
+}
+
 /*A lista não ordenada ul precisa estar alinhada em uma única linha.
 Crie um seletor para a classe .cabecalho-lista-item, adicionando nele 
 a propriedade display com o valor inline-block:*/
