@@ -47,7 +47,8 @@ a propriedade display com o valor inline-block:*/
     width: 30%; /*largura*/
      height: 300px;/*altura*/
      border-radius: 82px; /*para definir bordas arredondadas da imagem*/ 
-     text-align: right;  
+     padding: 0 240px; /* alinhar o espaçamento */
+      
 }
 
 /**/
