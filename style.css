@@ -40,6 +40,9 @@ a propriedade display com o valor inline-block:*/
 a:hover {
     color: #16CFF8;
 }
+a:active{
+    color: blue;
+}
 
 
 
