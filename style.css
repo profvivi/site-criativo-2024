@@ -42,7 +42,9 @@ a propriedade display com o valor inline-block:*/
     font-size: 24px;
 }
 
-/**/
-
+/* crie um seletor (.) para a classe escola-imagem, determinando uma largura width de 25%:*/
+.escola-imagem{
+    width: 25%;
+}
 
 /**/
