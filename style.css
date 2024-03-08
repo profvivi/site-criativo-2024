@@ -1,4 +1,4 @@
-/*Adicionar as propriedades margin e padding no seletor universal */
+/*Adicionar as propriedades margin e padding no seletor universal (asterisco) */
 *{
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@
 }
 
 .cabecalho-imagem{
-    width: 12%;
+    
     border-radius: 22px; /*para definir bordas arredondadas da imagem*/  
 }
 
@@ -37,9 +37,12 @@ a propriedade display com o valor inline-block:*/
    color: #FFFFFF; /*cor*/
 }
 
+/*Efeito alterar a cor quando passa o mouse*/
 a:hover {
     color: #16CFF8;
 }
+
+/*alterar a cor quando clicar com o mouse*/
 a:active{
     color: rgb(105, 144, 216);
 }
