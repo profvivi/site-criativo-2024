@@ -44,7 +44,9 @@ a propriedade display com o valor inline-block:*/
 
 /* crie um seletor (.) para a classe escola-imagem, determinando uma largura width de 25%:*/
 .escola-imagem{
-    width: 25%;
+    width: 30%; /*largura*/
+     height: 300px;/*altura*/
+     border-radius: 82px; /*para definir bordas arredondadas da imagem*/   
 }
 
 /**/
