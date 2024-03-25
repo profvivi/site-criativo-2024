@@ -47,6 +47,37 @@ a:active{
     color: rgb(105, 144, 216);
 }
 
+#escola{
+    background-image: linear-gradient(#F9DEDE,#fcf9f9); /*define um gradiente linear como a imagem de fundo, 
+    deve definir pelo menos duas paradas de cor */
+    color: #000000; /*cor*/
+    display: flex; /*organizar a estrutura do nosso conteúdo*/
+    justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
+    padding: 24px 0; /*Altera o espaçamento interno*/
+}
+
+.escola-div-conteudo{
+    width: 50%; /*largura*/
+}
+
+.escola-titulo{
+    padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
+    segundo valor bordas horizontais(esquerda e direita)*/
+    font-size: 25px;/*tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+}
+
+.escola-texto{
+    font-size: 20px;/*tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+}
+
+.imagem-escola{
+     width: 30%; /*largura*/
+     height: 300px;/*altura*/
+     border-radius: 82px; /*para definir bordas arredondadas da imagem*/   
+}
+
 
 /*INICIO SEÇÃO ESTUDANTE*/
 #estudante{
