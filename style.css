@@ -48,7 +48,66 @@ a:active{
 }
 
 
+/*INICIO SEÇÃO ESTUDANTE*/
+#estudante{
+    background-color: #fcf9f9; /*cor de fundo*/
+    color: #000000; /*cor*/
+}
+.estudante-titulo{
+    padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
+    segundo valor bordas horizontais(esquerda e direita)*/
+    margin: 0 120px; /* alinhar o espaçamento */
+    font-size: 25px;/*tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+}
 
+p{
+    padding: 0 120px; /* alinhar o espaçamento */
+    font-size: 20px;/*tamanho da fonte*/
+    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+ }
+
+ .estudantes-todos{
+    display: grid; /* especificar o espaçamento do grid(organizar por colunas) */
+    grid-template-columns: 25% 25% 25% 25%; 
+    padding: 0 60px; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
+    segundo valor bordas horizontais(esquerda e direita)*/
+}
+
+.estudante-div{
+    text-align: center;/*texto centralizado*/  
+    padding: 12px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
+    segundo valor bordas horizontais(esquerda e direita)*/
+}
+
+.estudante-imagem{
+    width: 120px;  /*largura*/
+}
+
+.estudante-nome{
+    font-size: 14px;/*tamanho da fonte*/    
+}
+
+.estudante-icone{
+    width: 24px;  /*largura*/
+    padding: 4px 8px;/*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
+    segundo valor bordas horizontais(esquerda e direita)*/
+}
+
+/*INICIO SEÇÃO RODAPÉ*/
+.rodape{
+    background-image: linear-gradient(#fcf9f9,#F9DEDE);/*cor de fundo gradiente*/
+}
+
+.copyright{
+        text-align: center;/*texto centralizado*/ 
+        height: 100px;/*altura*/
+        line-height: 100px;   /*altura da linha*/     
+        font-size: 12px;/*tamanho da fonte*/ 
+}
+
+
+ 
 
 
 
