@@ -47,8 +47,9 @@ a:active{
     color: rgb(105, 144, 216);
 }
 
+/* Seção escola*/
 .escola{
-    background-image: linear-gradient(#F9DEDE,#fcf9f9); /*define um gradiente linear como a imagem de fundo, 
+    background-image: linear-gradient(#424E61); /*define um gradiente linear como a imagem de fundo, 
     deve definir pelo menos duas paradas de cor */
     color: #000000; /*cor*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
