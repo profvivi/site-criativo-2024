@@ -50,7 +50,7 @@ a:active{
 /*INICIO SEÇÃO ESCOLA*/
 .escola{
    
-    deve definir pelo menos duas paradas de cor */
+    /*deve definir pelo menos duas paradas de cor */
     display: flex; /*organizar a estrutura do nosso conteúdo*/
     justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
     padding: 24px 0; /*Altera o espaçamento interno*/
