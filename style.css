@@ -83,7 +83,7 @@ a:active{
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
    /* background-color: #16cff8; cor de fundo*/
-   background-image: linear-gradient(  #4473c0, #424E61); 
+   background-image: linear-gradient(  #16cFF8, #424E61); 
     color: #000000; /*cor*/
 }
 .estudante-titulo{
