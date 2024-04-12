@@ -7,7 +7,7 @@
 /*Iniciar Seção cabeçalho*/
 
 .cabecalho {
-    background-color: #424E61;
+   /* background-color: #424E61;*/
     color: #000000;
     display: flex;
     justify-content: space-around;
