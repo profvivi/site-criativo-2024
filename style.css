@@ -136,7 +136,8 @@ p{
 
 .copyright{
     text-align: center;/*texto centralizado*/
-    height: 100px;
+    height: 100px;/*altura*/
+    line-height: 100px;/*altura da linha*/
     font-size: 12px;/*tamanho da fonte*/
 }
 
