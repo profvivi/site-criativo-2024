@@ -49,7 +49,7 @@ a:active{
 
 /* Seção escola*/
 .escola{
-    background-image: linear-gradient(#1661da, #16a5f8); /*define um gradiente linear como a imagem de fundo, 
+    background-image: linear-gradient(#424E61, #424e61a5); /*define um gradiente linear como a imagem de fundo, 
     deve definir pelo menos duas paradas de cor */
     color: #FFFFFF;/*cor*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
@@ -83,7 +83,7 @@ a:active{
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
    /* background-color: #16cff8; cor de fundo*/
-   background-image: linear-gradient( #5ebdf5, #1661da); 
+   background-image: linear-gradient( #5ebdf5, #1661da00); 
     color: #000000; /*cor*/
 }
 .estudante-titulo{
