@@ -135,7 +135,7 @@ p{
 
 .copyright{
     padding: 0 220px; /* alinhar o espaçamento */
-    align-items: center;
+  
     font-size: 20px;/*tamanho da fonte*/
     font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
 }
