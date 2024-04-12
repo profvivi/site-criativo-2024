@@ -49,7 +49,6 @@ a:active{
 
 /*INICIO SEÇÃO ESCOLA*/
 .escola{
-    
     /*deve definir pelo menos duas paradas de cor */
     background-image: linear-gradient(#424E61, #16a5f8,);  /*define um gradiente linear como a imagem de fundo)*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
@@ -132,7 +131,7 @@ p{
 
 /*SEÇÃO RODAPÉ*/
 .rodape{
-    background-image: linear-gradient(  #16a5f8, #424E61);  /*define um gradiente linear como a imagem de fundo); 
+    background-image: linear-gradient(  #16a5f8, #424E61);  /*define um gradiente linear como a imagem de fundo)*/ 
 
     
 }
