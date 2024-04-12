@@ -57,7 +57,8 @@ a:active{
 
 .escola-div-conteudo{
     width: 45%; /*largura*/
-    color: #000000;cor
+    color: #000000;/*cor*/
+    background-color: #16a5f8; /*cor de fundo*/
 }
 
 .escola-titulo{
