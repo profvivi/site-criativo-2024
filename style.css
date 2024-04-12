@@ -71,6 +71,7 @@ a:active{
 .escola-texto{
     font-size: 20px;/*tamanho da fonte*/
     font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+    color: #000000;/*cor*/
 }
 
 .imagem-escola{
