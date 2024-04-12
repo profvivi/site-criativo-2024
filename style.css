@@ -49,7 +49,7 @@ a:active{
 
 /*INICIO SEÇÃO ESCOLA*/
 .escola{
-   
+    background-color: #16a5f8; /*cor de fundo*/
     /*deve definir pelo menos duas paradas de cor */
     display: flex; /*organizar a estrutura do nosso conteúdo*/
     justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
@@ -84,8 +84,8 @@ a:active{
 
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
-    background-color: #16a5f8; cor de fundo*
-    color: #000000; /*cor*/
+    background-color: #16a5f8; /*cor de fundo*/
+    color: #000000;/*cor*/
 }
 .estudante-titulo{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
