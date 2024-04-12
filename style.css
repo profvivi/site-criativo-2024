@@ -49,8 +49,7 @@ a:active{
 
 /*INICIO SEÇÃO ESCOLA*/
 .escola{
-    /*deve definir pelo menos duas paradas de cor */
-    background-image: linear-gradient(#424E61, #16a5f8,);  /*define um gradiente linear como a imagem de fundo)*/
+    background-color: #16a5f8;
     display: flex; /*organizar a estrutura do nosso conteúdo*/
     justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
     padding: 24px 0; /*Altera o espaçamento interno*/
