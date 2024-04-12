@@ -37,15 +37,15 @@ a propriedade display com o valor inline-block:*/
    color: #000000; /*cor*/
 }
 
-/*Efeito alterar a cor quando passa o mouse*/
+/*Efeito alterar a cor quando passa o mouse
 a:hover {
     color: #0e95a7;
 }
 
-/*alterar a cor quando clicar com o mouse*/
+alterar a cor quando clicar com o mouse
 a:active{
     color: rgb(105, 144, 216);
-}
+}*/
 
 /*INICIO SEÇÃO ESCOLA*/
 
