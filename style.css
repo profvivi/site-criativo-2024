@@ -128,7 +128,7 @@ p{
 
 /*SEÇÃO RODAPÉ*/
 .rodape{
-    background-image: linear-gradient(  6a5f8, #424E61);  /*define um gradiente linear como a imagem de fundo)*/ 
+    background-image: linear-gradient(  #16a5f8, #424E61);  /*define um gradiente linear como a imagem de fundo)*/ 
 }
 
 .copyright{
