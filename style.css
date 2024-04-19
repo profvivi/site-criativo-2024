@@ -38,7 +38,7 @@ a propriedade display com o valor inline-block:*/
 
 .cabecalho-lista-item a {
    text-decoration: none; /**/
-  
+   color: #ffffff;/*cor*/
 }
 
 /*Efeito alterar a cor quando passa o mouse*/
@@ -87,7 +87,7 @@ a:active{
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
   background-color:#16a5f8;  /* cor de fundo*/
-    color: #000000;/*cor*/
+    color: #ffffff;/*cor*/
 }
 .estudante-titulo{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
