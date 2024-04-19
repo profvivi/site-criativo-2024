@@ -81,7 +81,7 @@ a:active{
 
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
-  /* background-color: #97d4f7; cor de fundo*/
+   background-color: #97d4f7; /*cor de fundo*/
     color: #000000;/*cor*/
 }
 .estudante-titulo{
