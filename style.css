@@ -1,22 +1,21 @@
 /*Adicionar as propriedades margin e padding no seletor universal (asterisco) */
 *{
-    margin: 0;
-    padding: 0;
-}
+    margin: 0; /*altera o espaçamento externo*/
+    padding: 0; /*altera o espaçamento interno*/
+}/**/
 
 /*Iniciar Seção cabeçalho*/
 
 .cabecalho {
-    background-color: #424E61;
-    
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
+    background-color: #424E61; /*cor de fundo*/
+    display: flex; /*propriedade flex para organizar os itens do cabaçalho, lado a lado*/
+    justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
+    align-items: center; /*alinhamento de itens centralizado*/
+    padding: 24px 0; /*altera o espaçamento interno*/
 }
 
 .cabecalho-imagem{
-    width: 8%;
+    width: 8%; /**/
     border-radius: 22px; /*para definir bordas arredondadas da imagem*/  
 }
 
@@ -27,24 +26,24 @@ a propriedade display com o valor inline-block:*/
 /*Aumente a fonte através da propriedade font-size de valor 24px.*/
 
 .cabecalho-lista-item{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+    display: inline-block; /*o valor inline-block na propriedade display,os item da lista ficam lado a lado*/
+    margin: 0 16px; /**/
+    font-size: 24px; /*tamanho da fonte*/
 }
 
 .cabecalho-lista-item a {
-   text-decoration: none;
+   text-decoration: none; /**/
    color: #000000; /*cor*/
 }
 
 /*Efeito alterar a cor quando passa o mouse*/
 a:hover {
-    color:  #16a5f8;
+    color:  #16a5f8; /cor*/
 }
 
 /*alterar a cor quando clicar com o mouse*/
 a:active{
-    color: rgb(199, 215, 246);
+    color: rgb(199, 215, 246); /**/
 }
 
 /*INICIO SEÇÃO ESCOLA*/
