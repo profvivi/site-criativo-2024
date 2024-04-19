@@ -4,6 +4,10 @@
     padding: 0; /*altera o espaçamento interno*/
 }/**/
 
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 /*Iniciar Seção cabeçalho*/
 
 .cabecalho {
@@ -65,12 +69,11 @@ a:active{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
     segundo valor bordas horizontais(esquerda e direita)*/
     font-size: 25px;/*tamanho da fonte*/
-    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/  
 }
 
 .escola-texto{
     font-size: 20px;/*tamanho da fonte*/
-    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/   
+      
 }
 
 .imagem-escola{
@@ -90,13 +93,13 @@ a:active{
     segundo valor bordas horizontais(esquerda e direita)*/
     margin: 0 120px; /* alinhar o espaçamento */
     font-size: 25px;/*tamanho da fonte*/
-    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+    
 }
 
 p{
     padding: 0 120px; /* alinhar o espaçamento */
     font-size: 20px;/*tamanho da fonte*/
-    font-family: Arial, Helvetica, sans-serif; /*especifica a fonte de um elemento*/
+   
  }
 
  .estudantes-todos{
