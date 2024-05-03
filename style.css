@@ -42,7 +42,7 @@ a propriedade display com o valor inline-block:*/
 
 /*Efeito alterar a cor quando passa o mouse*/
 a:hover {
-    color:#16a5f8; /cor*/
+    color:#16a5f8; /*cor*/
 }
 
 /*alterar a cor quando clicar com o mouse*/
