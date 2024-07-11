@@ -66,7 +66,7 @@ a:active{
 .escola-titulo{
     padding: 24px 0; /*Altera o espaçamento interno,o primeiro valor bordas verticais (superior e inferior) e o 
     segundo valor bordas horizontais(esquerda e direita)*/
-    font-size: 25px;/*tamanho da fonte*/
+    font-size: 20px;/*tamanho da fonte*/
 }
 
 .escola-texto{
@@ -94,7 +94,8 @@ a:active{
 
 p{
     padding: 0 120px; /* alinhar o espaçamento */
-    font-size: 20px;/*tamanho da fonte*/  
+    font-size: 16px;/*tamanho da fonte*/  
+    color: #171718;
  }
 
  .estudantes-todos{
