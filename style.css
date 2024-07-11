@@ -2,16 +2,16 @@
 *{
     margin: 0; /*altera o espaçamento externo*/
     padding: 0; /*altera o espaçamento interno*/
-}/**/
+}
 
 body {
     font-family: 'Poppins', sans-serif;
-   
+    background-color: #424E61;
 }
 
 /*Iniciar Seção cabeçalho*/
 .cabecalho {
-    background-color: #424E61; /*cor de fundo*/
+     /*cor de fundo*/
     color: #ffffff; /*cor*/
     display: flex; /*propriedade flex para organizar os itens do cabaçalho, lado a lado*/
     justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
@@ -20,7 +20,7 @@ body {
 }
 
 .cabecalho-imagem{
-    width: 8%; /**/
+    width: 8%; /*largura*/
     border-radius: 22px; /*para definir bordas arredondadas da imagem*/  
 }
 
