@@ -52,7 +52,7 @@ a:active{
 }
 
 /*INICIO SEÇÃO ESCOLA*/
-.escola{
+.principal__escola{
      /*define um gradiente linear como a imagem de fundo)*/ 
     color: #000000; /*cor*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
