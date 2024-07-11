@@ -79,6 +79,10 @@ a:active{
      height: 300px;/*altura*/
      border-radius: 82px; /*para definir bordas arredondadas da imagem*/   
 }
+
+.muda_tamanho:active{
+    font-size: 30px;
+}
 /*FIM SEÇÃO ESCOLA*/
 
 /*INICIO SEÇÃO ESTUDANTE*/
