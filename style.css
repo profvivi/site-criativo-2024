@@ -53,7 +53,6 @@ a:active{
 
 /*INICIO SEÇÃO ESCOLA*/
 .principal__escola{
-     /*define um gradiente linear como a imagem de fundo)*/ 
     color: #000000; /*cor*/
     display: flex; /*organizar a estrutura do nosso conteúdo*/
     justify-content: center; /*alinha imagem e os textos com espaçamentos entre eles*/
@@ -85,7 +84,6 @@ a:active{
 
 /*INICIO SEÇÃO ESTUDANTE*/
 .estudante{
-    background-color: #16a5f8;   /* cor de fundo*/
     color: #000000;/*cor*/
 }
 .estudante-titulo{
