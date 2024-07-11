@@ -6,12 +6,11 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #424E61;
+    background-image: linear-gradient(#16a5f8, #424E61);  
 }
 
 /*Iniciar Seção cabeçalho*/
 .cabecalho {
-     /*cor de fundo*/
     color: #ffffff; /*cor*/
     display: flex; /*propriedade flex para organizar os itens do cabaçalho, lado a lado*/
     justify-content: space-around; /*alinha as imagens e os textos com espaçamento entre eles*/
