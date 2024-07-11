@@ -80,7 +80,7 @@ a:active{
      border-radius: 82px; /*para definir bordas arredondadas da imagem*/   
 }
 
-.muda_tamanho:active{
+.muda_tamanho:hover{
     font-size: 30px;
 }
 /*FIM SEÇÃO ESCOLA*/
